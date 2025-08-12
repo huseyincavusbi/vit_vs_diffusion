@@ -1,4 +1,7 @@
+
 # ViT vs Diffusion: CIFAR-10 Image Generation
+
+**Kaggle Notebook:** [https://www.kaggle.com/code/huseyincavus/vit-vs-diffusion](https://www.kaggle.com/code/huseyincavus/vit-vs-diffusion)
 
 This notebook compares two generative models on the CIFAR-10 dataset:
 
